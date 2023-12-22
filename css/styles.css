@@ -33,7 +33,7 @@ body{
     transition: 0.5s;
 }
 .go-top:hover{
-    background: var(--red);
+    background: var(--blue);
     color:#fff;
     border: 2px solid var(--white);
 }
